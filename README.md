@@ -12,7 +12,7 @@ Digital nomad from Israel, now based in Berlin 🇩🇪. Over the past 10 years 
 
 - **MEET Case Studies** — a gamified website for an educational program's students and staff
 - **LiDAR Visualizer** — a LiDAR measurement visualization tool, freelance project
-- **DagsHub** — I worked at DagsHub for a while, made [DagsHub Connect]([url](https://dagshub.com/blog/introducing-dagshub-connect-the-complete-github-integration-is-here/)), [DagsHub Academy](https://www.youtube.com/watch?v=GgehjwFmVSw&list=PLlW1sxGDs8lUzNCSd-GHL_y8m3hkPhaJU&index=3) and more
+- **DagsHub** — I worked at DagsHub for a good while, made [DagsHub Connect](https://dagshub.com/blog/introducing-dagshub-connect-the-complete-github-integration-is-here/), [DagsHub Academy](https://www.youtube.com/watch?v=GgehjwFmVSw&list=PLlW1sxGDs8lUzNCSd-GHL_y8m3hkPhaJU&index=3) and more
 - I also [broke GitHub Copilot](https://dagshub.com/blog/github-copilot-not-code/) once, and it made the front page of Hacker News
 
 ### 🎬 Filmmaking
