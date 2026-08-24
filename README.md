@@ -1,18 +1,18 @@
 ## Hi, I'm Ido 👋
 
-Digital nomad from Israel, now based in Berlin 🇩🇪. Over the past 10 years I've learned, mastered, and worked across a few different fields — software engineering, filmmaking, and photography — and I like building things end to end.
+Digital nomad from Israel, now based in Berlin 🇩🇪. Over the past 10 years I've learned, mastered, and worked across a few different fields — software engineering, filmmaking, and photography.
 
 ### 🚀 What I'm building right now
 
-- **[we4water](https://we4water.com)** — helping a platform for water projects grow: watercrafts, water treatment, and the culture around them
-- **[Berlin Sessions](https://berlin-sessions.com)** — every jam, open mic and live session in Berlin, in one weekly calendar
+- **[we4water](https://we4water.com)** — helping a platform for water projects grow: watercrafts, water treatment, and the culture around them. Right now focusing on safe urban bathing in Berlin
+- **[Berlin Sessions](https://berlin-sessions.com)** — every jam, open mic and live session in Berlin, in one easy calendar
 - **[Wiki Compare](https://wikicompare.app)** — same article, different truth: how Wikipedia tells the same story in English, Hebrew and Arabic
 
 ### 🛠️ Recent work
 
 - **MEET Case Studies** — a gamified website for an educational program's students and staff
 - **LiDAR Visualizer** — a LiDAR measurement visualization tool, freelance project
-- **HospiTrack** — indoor tracking of hospital staff to reduce quarantines during COVID-19
+- **DagsHub** — I worked at DagsHub for a while, made [DagsHub Connect]([url](https://dagshub.com/blog/introducing-dagshub-connect-the-complete-github-integration-is-here/)), [DagsHub Academy](https://www.youtube.com/watch?v=GgehjwFmVSw&list=PLlW1sxGDs8lUzNCSd-GHL_y8m3hkPhaJU&index=3) and more
 - I also [broke GitHub Copilot](https://dagshub.com/blog/github-copilot-not-code/) once, and it made the front page of Hacker News
 
 ### 🎬 Filmmaking
