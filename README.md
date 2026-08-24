@@ -21,18 +21,18 @@ Short films, music videos, and technical/commercial work - check out the [YouTub
 
 ### 📷 Photography
 
-A rotating gallery lives on [my site](https://idonov8.github.io#photography).
+My portfolio lives on [my site](https://idonov.com#photography).
 
 ### 📄 More
 
-- [Personal website](https://idonov8.github.io)
-- [CV / résumé](https://idonov8.github.io/assets/cv-2026.pdf)
+- [Personal website](https://idonov.com)
+- [CV / résumé](https://idonov.com/assets/cv-2026.pdf)
 - [Ido's guide to the minimalist iPhone](https://ivory-kookaburra-2de.notion.site/Ido-s-Guide-to-the-minimalist-iPhone-265460dbb2a1809fb5d2d19939118f14?pvs=143)
 
 ### 📫 Get in touch
 
 [![Email](https://img.shields.io/badge/Email-idonov8%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:idonov8@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ido%20Nov-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ido-nov-83a216149/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ido%20Nov-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idonov8/)
 [![Telegram](https://img.shields.io/badge/Telegram-%40idonov-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/idonov)
 [![YouTube](https://img.shields.io/badge/YouTube-%40idonov8-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@idonov8)
-[![Website](https://img.shields.io/badge/Website-idonov8.github.io-000000?style=flat&logo=googlechrome&logoColor=white)](https://idonov8.github.io)
+[![Website](https://img.shields.io/badge/Website-idonov8.github.io-000000?style=flat&logo=googlechrome&logoColor=white)](https://idonov.com)
