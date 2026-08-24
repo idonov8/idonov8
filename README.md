@@ -1,6 +1,6 @@
 ## Hi, I'm Ido 👋
 
-Digital nomad from Israel, now based in Berlin 🇩🇪. Over the past 10 years I've learned, mastered, and worked across a few different fields — software engineering, filmmaking, and photography.
+Digital nomad from Israel, now based in Berlin. Over the past 10 years I've learned, mastered, and worked across software engineering, filmmaking, and photography.
 
 ### 🚀 What I'm building right now
 
@@ -17,7 +17,7 @@ Digital nomad from Israel, now based in Berlin 🇩🇪. Over the past 10 years 
 
 ### 🎬 Filmmaking
 
-Short films, music videos, and technical/commercial work — check out the [YouTube channel](https://www.youtube.com/@idonov8), including *Brain Fog*, *So Many People*, and *Walking*.
+Short films, music videos, and technical/commercial work - check out the [YouTube channel](https://www.youtube.com/@idonov8), including *Brain Fog*, *So Many People*, and *Walking*.
 
 ### 📷 Photography
 
@@ -33,7 +33,6 @@ A rotating gallery lives on [my site](https://idonov8.github.io#photography).
 
 [![Email](https://img.shields.io/badge/Email-idonov8%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:idonov8@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ido%20Nov-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ido-nov-83a216149/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/972547898215)
 [![Telegram](https://img.shields.io/badge/Telegram-%40idonov-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/idonov)
 [![YouTube](https://img.shields.io/badge/YouTube-%40idonov8-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@idonov8)
 [![Website](https://img.shields.io/badge/Website-idonov8.github.io-000000?style=flat&logo=googlechrome&logoColor=white)](https://idonov8.github.io)
