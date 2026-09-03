@@ -1,6 +1,6 @@
 ## Hi, I'm Ido 👋
 
-Digital nomad from Israel, now based in Berlin. Over the past 10 years I've learned, mastered, and worked across software engineering, filmmaking, and photography.
+Product dev from Israel, now based in Berlin. Over the past 10 years I've learned, mastered, and worked across software engineering, filmmaking, and photography.
 
 ### 🚀 What I'm building right now
 
