@@ -30,7 +30,7 @@ My portfolio lives on [my site](https://idonov.com#photography).
 
 ### 📫 Get in touch
 
-[![Email](https://img.shields.io/badge/Email-idonov8%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hi@idonov.com)
+[![Email](https://img.shields.io/badge/Email-hi%40idonov.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hi@idonov.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ido%20Nov-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idonov8/)
 [![Telegram](https://img.shields.io/badge/Telegram-%40idonov-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/idonov)
 [![YouTube](https://img.shields.io/badge/YouTube-%40idonov8-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@idonov8)
